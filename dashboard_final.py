@@ -215,7 +215,8 @@ if uploaded_file is not None:
     df['JAWABAN'] = df['JAWABAN'].apply(remove_punctuation)
 
     # ================================================================================================================
-
+    import nltk
+    nltk.download('stopwords')
     from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
 
     # -------- Mengambil stopwords dari NLTK --------
