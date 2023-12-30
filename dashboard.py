@@ -75,7 +75,7 @@ st.sidebar.markdown("""
         }
     </style>
 """, unsafe_allow_html=True)
-st.sidebar.image('TELKOM-UNIVERSITY-LOGO-HORIZONTAL.png', caption='Tel-U Surabaya',width=150 , use_column_width=False)  
+st.sidebar.image('https://e7.pngegg.com/pngimages/689/55/png-clipart-telkom-university-telkom-institute-of-technology-universiti-teknikal-malaysia-melaka-multimedia-university-student-text-people-thumbnail.png', caption='Tel-U Surabaya',width=150 , use_column_width=False)  
 
 # ================================================================================================================
 
