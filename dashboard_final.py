@@ -217,6 +217,7 @@ if uploaded_file is not None:
     # ================================================================================================================
     import nltk
     nltk.download('stopwords')
+    nltk.download('punkt')
     from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
 
     # -------- Mengambil stopwords dari NLTK --------
