@@ -75,7 +75,7 @@ st.sidebar.markdown("""
         }
     </style>
 """, unsafe_allow_html=True)
-st.sidebar.image('https://instagram.fsub3-2.fna.fbcdn.net/v/t51.2885-19/411688379_1013651986364309_1326768748426838304_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fsub3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=Id0NfwgWvF4AX-jHN4r&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAQfcLRJtudPy1zn2TrhimP_eFWZ8uasF9P8H7SK6NBOg&oe=65952310&_nc_sid=8b3546', caption='Tel-U Surabaya',width=150 , use_column_width=False)  
+st.sidebar.image('https://surabaya.telkomuniversity.ac.id/wp-content/uploads/2023/09/TELKOM-UNIVERSITY-LOGO-HORIZONTAL.png', caption='Tel-U Surabaya',width=150 , use_column_width=False)  
 
 # ================================================================================================================
 
