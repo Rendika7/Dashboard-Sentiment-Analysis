@@ -27,6 +27,7 @@ from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 import nltk
 nltk.download('stopwords')
+nltk.download('punkt')
 import string
 from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
 
