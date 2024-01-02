@@ -26,6 +26,7 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 import nltk
+nltk.download('stopwords')
 import string
 from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
 
